@@ -6,35 +6,35 @@ permalink: /:year/:month/:day/:title.html
 # relative_permalinks: true
 
 # Setup
-title:            My Lanyon Blog
-tagline:          ''
-description:      'Jekyll-powered, Lanyon-themed, knitr-ready.'
-baseurl: "/knitr-lanyon" # If you are making a gh-pages project blog, this is
+title:            Beer, Battles, and Barbeque
+tagline:          'An Americana Adventure'
+description:      'On a mission to visit the best breweries and barbeque joints. Battle sites are a bonus.'
+baseurl: "/3Bs" # If you are making a gh-pages project blog, this is
                         # the name of your project repo, preceded by a /'
                         # Set it to just "/" if you are making a user page.
                         
                         # That trailing slash is important for proper storage
                         # of figures gnerated from knitting.
-baseurlknitr:  "/knitr-lanyon/" # This will always be your baseurl plus an extra '/'
+baseurlknitr:  "/3Bs/" # This will always be your baseurl plus an extra '/'
                                 # at the end.  It's used only when knitr renders
                                 # your R Markdown files.
                         
-url: "https://homerhanumat.github.io" # the base hostname & protocol for your site
+url: "https://natebyers.github.io" # the base hostname & protocol for your site
 
 # set limit on number of post to appear on Home page
 homepostlimit: 4
 
 # Disqus comments:
 disqus:           true
-shortname:        homerhanumatgithubioknitrlanyon
+shortname:        natebyers3bs
 
 # Social Media
 twitter:          true # add a twitter button to each post
 facebook:         true # add a facebook share button to each post
 
 author:
-  name:           'Homer White'
-  url:            https://statistics.rainandrhino.org
+  name:           'Nathan Byers'
+  url:            https://www.linkedin.com/in/nathan-byers-8a64a24
 
 github:
-  repo:           https://github.com/homerhanumat/knitr-lanyon
+  repo:           https://github.com/NateByers

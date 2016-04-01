@@ -1,0 +1,16 @@
+---
+layout:  post
+title: "Big Bang"
+comments:  true
+published:  true
+author: "Nathan Byers"
+date: `r Sys.time()`
+categories: [raison]
+output:
+  html_document:
+    mathjax:  default
+    fig_caption:  true
+---
+
+
+This is a blog about beer, battles, and barbeque.
