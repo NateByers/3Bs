@@ -12,6 +12,6 @@ output:
     fig_caption:  true
 ---
 
-
+[![craft beer](http://i.imgur.com/DKtOrCw.jpg?1)](http://i.imgur.com/DKtOrCw.jpg?1)
 
 This is a blog about beer, battles, and barbeque.
