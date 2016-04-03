@@ -1,3 +1,3 @@
-# Knitr-Lanyon
+# 3Bs
 
-See the `gh-pages` branch.
+See gh-pages branch.
