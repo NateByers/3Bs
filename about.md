@@ -3,10 +3,8 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Write in R Markdown, preview with Jekyll, push to GitHub.
-</p>
+[![craft beer](http://i.imgur.com/DKtOrCw.jpg?1)](http://i.imgur.com/DKtOrCw.jpg?1)
 
-This is a skeleton/tutorial for a Jekyll-powered blog based on the [Lanyon](http://lanyon.getpoole.com) theme by [@mdo](https://twitter.com/mdo), customized for R-bloggers with the help of Yihui Xie's <a href = "https://github.com/yihui/knitr-jekyll">knitr-jekyll</a>.
-
-The repo for this blog-template is [GitHub](https://github.com/homerhanumat/knitr-lanyon).
+This is a blog about beer, battles, and barbeque. I would like to visit as many
+breweries and barbeque joints in the USofA that I can. And also American 
+battle sites along the way. This is where I plan on chronicling it all. 
