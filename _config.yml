@@ -26,7 +26,7 @@ homepostlimit: 4
 
 # Disqus comments:
 disqus:           true
-shortname:        natebyers3bs
+shortname:        beerbattlesbarbeque
 
 # Social Media
 twitter:          true # add a twitter button to each post
