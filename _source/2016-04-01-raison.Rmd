@@ -16,8 +16,7 @@ output:
 
 This is a blog about beer, battles, and barbeque. I would like to visit as many
 breweries and barbeque joints in the USofA that I can. Oh, and also American 
-battle sites along the way. This is where I plan on chronicling it all. It 
-may end up being a very short blog, but that's the plan anyway.
+battle sites along the way. This is where I plan on chronicling it all.
 
 This will end up being mostly about beer and barbeque I would guess. Stuff about 
 battle fields will be minimal.
