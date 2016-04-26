@@ -1,0 +1,19 @@
+---
+layout:  post
+title: "Texas"
+comments:  true
+published:  true
+author: "Nathan Byers"
+date: "2016-04-25"
+categories: [BBQ, Texas]
+output:
+  html_document:
+    mathjax:  default
+    fig_caption:  true
+---
+
+<img src="https://photos-4.dropbox.com/t/2/AAAjbXIdCFWRb20mkgZMfVWfPwABesdAUKtZtgFVYRabig/12/242722779/jpeg/32x32/1/1461650400/0/2/2016-04-22%2017.58.54.jpg/EI-ItYMCGJ4zIAcoBw/RTX-kZdXVAoabLIIXN30loYrk0sGWEK-FZG5izNoOi8?size_mode=3&size=1280x960" height="400px" width="250px" />
+
+<img src="https://photos-1.dropbox.com/t/2/AAA9monLvyuiWc0lYCubSuI894ZEpRCdnq31-WsnxFZxcg/12/242722779/jpeg/32x32/1/1461654000/0/2/2016-04-23%2018.17.25.jpg/EI-ItYMCGJ4zIAcoBw/KgyPfdA4CISCRUXhNMsDV_Em8EmuEEU2uxRiKjdwjN0?size_mode=3&size=1280x960" height="250px" width="400px" />
+
+<img src="https://photos-1.dropbox.com/t/2/AAA9monLvyuiWc0lYCubSuI894ZEpRCdnq31-WsnxFZxcg/12/242722779/jpeg/32x32/1/1461654000/0/2/2016-04-23%2018.17.25.jpg/EI-ItYMCGJ4zIAcoBw/KgyPfdA4CISCRUXhNMsDV_Em8EmuEEU2uxRiKjdwjN0?size_mode=3&size=1280x960" height="250px" width="400px" />
